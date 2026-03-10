@@ -147,6 +147,7 @@ PRODUCT_COPY_FILES += \
 #    vendor/xiaomi/shiva/proprietary/vendor/lib/libverno.so:$(TARGET_COPY_OUT_VENDOR)/lib/libverno.so \
 #    vendor/xiaomi/shiva/proprietary/vendor/lib/vendor.mediatek.hardware.camera.bgservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.camera.bgservice@1.0.so \
 #    vendor/xiaomi/shiva/proprietary/vendor/lib/vendor.mediatek.hardware.camera.bgservice@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.camera.bgservice@1.1.so \
+
     vendor/xiaomi/shiva/proprietary/vendor/lib64/gc5035_ofilm_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc5035_ofilm_mipi_raw_IdxMgr.so \
     vendor/xiaomi/shiva/proprietary/vendor/lib64/gc5035_ofilm_mipi_raw_india_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc5035_ofilm_mipi_raw_india_IdxMgr.so \
     vendor/xiaomi/shiva/proprietary/vendor/lib64/gc5035_ofilm_mipi_raw_india_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/gc5035_ofilm_mipi_raw_india_tuning.so \
